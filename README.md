@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend dev, Golang and CyberSec<br>👯 I’m looking to collaborate on WebDev Projects<br>🤝 I’m looking for help with my path to learn Cybersecurity<br>🌱 I’m currently learning Golang and NodeJS<br>💬 Ask me about nothing XD<br>⚡ Fun fact: I have ADHD
+🔭 I’m currently working on Backend dev, Golang and docker<br>👯 I’m looking to collaborate on WebDev Projects<br>🤝 I’m looking for help with my path to learn Cybersecurity<br>🌱 I’m currently learning Golang and NodeJS<br>💬 Ask me about nothing XD<br>⚡ Fun fact: I have ADHD
 
 
 ## 🌐 Socials:
