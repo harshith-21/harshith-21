@@ -5,6 +5,8 @@
 - <img src="assets/airflow.svg" alt="Apache Airflow" width="18" align="center"/> [Add result_backend_transport_options for Redis Sentinel support in Celery](https://github.com/apache/airflow/pull/59498)
 - <img src="assets/airflow.svg" alt="Apache Airflow" width="18" align="center"/> [Standardize connection docs labels across providers](https://github.com/apache/airflow/pull/63455)
 - <img src="assets/ozone.png" alt="Apache Ozone" width="18" align="center"/> [HDDS-14762 : Explicitly pass log4j.properties for reload4j](https://github.com/apache/ozone/pull/9861)
+- <img src="assets/knox.png" alt="Apache Knox" width="18" align="center"/> [KNOX-3243 : Added Ambari 3.0.0 support
+](https://github.com/apache/knox/pull/1140)
 - <img src="assets/ambari.png" alt="Apache Ambari" width="18" align="center"/> [AMBARI-26186 : Add Java 17 support to getJavaVersion method](https://github.com/apache/ambari/pull/3848)
 - <img src="assets/ambari.png" alt="Apache Ambari" width="18" align="center"/> [AMBARI-26520 : Fix deprecated usage string.uppercase](https://github.com/apache/ambari/pull/4029)
 - <img src="assets/ambari.png" alt="Apache Ambari" width="18" align="center"/> [AMBARI-26522 : Fix imports for collections](https://github.com/apache/ambari/pull/4033)
