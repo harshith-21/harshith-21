@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Building things with Python, Go, and Docker <br>🌱 Learning Go and Java <br>💬 Ask me about consumer tech — I’m always down 😎
+🔭 Building things with Python, Go, Docker and K8s <br>🌱 Learning Go and Java
 
 ## OSS contributions
 - <img src="assets/airflow.svg" alt="Apache Airflow" width="18" align="center"/> [Add result_backend_transport_options for Redis Sentinel support in Celery](https://github.com/apache/airflow/pull/59498)
